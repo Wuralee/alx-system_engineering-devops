@@ -1,1 +1,1 @@
-6-firstdirectory
+changed current user to betty
