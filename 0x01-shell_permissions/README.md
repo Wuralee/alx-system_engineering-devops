@@ -1,1 +1,1 @@
-changed current user to betty
+print name of current user
