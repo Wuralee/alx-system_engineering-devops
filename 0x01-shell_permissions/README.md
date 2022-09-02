@@ -1,1 +1,1 @@
-set the mode
+copy mode
