@@ -1,1 +1,1 @@
-copy mode
+permissions to subdirectories
