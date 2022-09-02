@@ -1,1 +1,1 @@
-everybody permitted
+only other users permitted
