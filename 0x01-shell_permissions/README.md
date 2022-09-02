@@ -1,1 +1,1 @@
-only other users permitted
+set the mode
