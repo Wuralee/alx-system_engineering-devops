@@ -1,1 +1,1 @@
- display lines 'root'
+count words
