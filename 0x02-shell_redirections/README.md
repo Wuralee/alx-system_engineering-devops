@@ -1,1 +1,1 @@
-display and sort
+directories
