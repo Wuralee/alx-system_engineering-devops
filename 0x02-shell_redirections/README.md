@@ -1,1 +1,1 @@
- hide word 
+ display lines starting with a letter
