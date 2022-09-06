@@ -1,1 +1,1 @@
-reverse input
+display and sort
