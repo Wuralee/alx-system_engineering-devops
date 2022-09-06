@@ -1,1 +1,1 @@
-end by a new line
+duplicate line
