@@ -1,1 +1,1 @@
- display word and~ count lines
+ hide word 
