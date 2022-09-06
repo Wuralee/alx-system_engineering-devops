@@ -1,1 +1,1 @@
-decode and use first letter of each line
+ display 11 host orderly from most active
