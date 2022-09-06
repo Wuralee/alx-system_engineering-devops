@@ -1,1 +1,1 @@
-show new files
+ display non-duplicate
