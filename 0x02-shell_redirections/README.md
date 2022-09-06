@@ -1,1 +1,1 @@
-third line of file
+end by a new line
