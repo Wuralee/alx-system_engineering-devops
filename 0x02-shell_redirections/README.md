@@ -1,1 +1,1 @@
- display non-duplicate
+ display lines 'root'
