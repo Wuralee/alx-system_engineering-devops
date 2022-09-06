@@ -1,1 +1,1 @@
- count words 
+ display word and~ count lines
