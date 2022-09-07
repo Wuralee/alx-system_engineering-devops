@@ -1,1 +1,1 @@
-cconvert base 2 to 10
+print all combinations of two letters except oo
