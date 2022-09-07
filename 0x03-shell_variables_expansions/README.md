@@ -1,1 +1,1 @@
-convert base 10 to base16
+encode and decode text using rot13
