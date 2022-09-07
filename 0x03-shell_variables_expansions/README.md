@@ -1,1 +1,1 @@
-print the environment variables
+print result of environment variables
