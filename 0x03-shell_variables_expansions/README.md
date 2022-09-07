@@ -1,1 +1,1 @@
-print hello user for current linux user
+add the last directory to the PATH
