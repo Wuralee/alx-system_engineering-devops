@@ -1,1 +1,1 @@
-create an alias
+print hello user for current linux user
