@@ -1,1 +1,1 @@
-print result of environment variables
+cconvert base 2 to 10
